@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrkgus&layout=compact)](https://github.com/mcrkgus/github-readme-stats)
+
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
