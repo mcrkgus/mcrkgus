@@ -12,8 +12,7 @@
     <a href="mailto:mcrkgus12@gmail.com">
     </a>
 </div><br>
-• 📞    mcrkgus12@gmail.com
-• 📚    mcrkgus.tistory.com
+
 
 
 
