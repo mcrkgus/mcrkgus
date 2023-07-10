@@ -1,11 +1,10 @@
-👋 김가현 Kim Ga Hyun
+## 👋 김가현 Kim Ga Hyun
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://mcrkgus.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
 </div><br>
 
 
@@ -18,6 +17,6 @@
 
 
 ## 🔨 Once I've used 🔨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrkgus&layout=compact)](https://github.com/mcrkgus/github-readme-stats)
-
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrkgus&layout=compact)](https://github.com/mcrkgus/github-readme-stats)
