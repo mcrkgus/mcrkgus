@@ -10,6 +10,8 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+• 📞    mcrkgus12@gmail.com
+• 📚    @mcrkgus
 
 
 
