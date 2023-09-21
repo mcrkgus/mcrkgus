@@ -17,7 +17,6 @@
 
 
 
-
 ### 🔨 Once I've used
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> 
 <br>
@@ -27,3 +26,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrkgus&layout=compact)](https://github.com/mcrkgus/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mcrkgus)](https://solved.ac/mcrkgus/)
