@@ -26,4 +26,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcrkgus&layout=compact)](https://github.com/mcrkgus/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mcrkgus)](https://solved.ac/mcrkgus/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kim_ghgh)](https://solved.ac/kim_ghgh/)
