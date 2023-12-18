@@ -17,7 +17,7 @@
 
 
 
-### 🔨 Once I've used
+### ⚙️ Once I've used
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> 
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/>
