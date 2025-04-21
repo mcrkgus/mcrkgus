@@ -1,7 +1,6 @@
-## 👩🏻‍💻 Kim Ga Hyun
+##  Kim Ga Hyun
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcrkgus&count_bg=%23FFB600&title_bg=%231C305A&icon=github.svg&icon_color=%23F9C6C6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div style="display:flex; flex-direction:row;">
     <a href="https://mcrkgus.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
