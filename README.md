@@ -16,3 +16,6 @@
 ### ⚙️ Once I've used
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> 
 
+<a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/{mcrkgus}"/>
+</a>
